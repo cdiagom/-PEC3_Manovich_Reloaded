@@ -37,6 +37,8 @@ Por resumir Gamelearn es un ejemplo que contiene la mezcla descrita por Manovich
 
 ## Re-descubriendo la hibridacion: Ejemplo 2: Inteligencia artificial en el gimnasio: SmartSpot
 
+![Gym](https://github.com/cdiagom/PEC3_Manovich_Reloaded/blob/main/gym_app.jpg))
+
 Otro ejemplo de hibridación es el gimnasio inteligente que nos ofrece posibilidades que ni siquiera nos habríamos planteado, hoy en día nos encontramos en los gimnasios en lo que estando dado de alta en una APP te puedes loguear y hacer tu deporte interactuando con otros compañeros de este y otros gimnasios y corriendo o montando en bici pues escenario reales de otras ciudades que nos sirve para poderlas visitar como si fuéramos circulando por sus calles y nos podemos cruzar e interactuar  en el recorrido con otros usuarios que estén haciendo la misma ruta. 
 
 Estos avances que son un buen ejemplo de hibridación según lo descrito por Manovich han sido gracias a las necesidades que han surgido durante la pandemia Covid-19 ya que obligo a muchos gimnasios a cerrar y los usuarios tuvieron que montarse en casa sus propias maquinas, cosa que los centros de Fitness aprovecharon para mejorar a maquinas más sofisticadas e incorporar tecnología que nos permite interactuar con otras personas que no están físicamente con nosotros. Las nuevas máquinas Son inteligentes, llevan la cuenta de las repeticiones, dan feedback, cargan el peso, crean programas de entrenamiento y te mantienen motivado, tienen una pantalla inteligente de visión aumentada por ordenador que colocaron en gimnasios. SmartSpot ayuda a los entrenadores a analizar y mejorar la forma de sus clientes, pero también se creó una base de datos enorme sobre patrones de movimiento. 
