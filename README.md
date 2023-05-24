@@ -3,10 +3,10 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: César Vicente Diago Manzanares 
 
 
-Fecha: 
+Fecha: 24/05/2023
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
