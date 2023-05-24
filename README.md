@@ -22,6 +22,8 @@ En el "El software toma el mando" Lev Manovich nos cuenta las diversas formas en
 
 ## Re-descubriendo la hibridacion: Ejemplo 1: Una nueva forma de aprendizaje: Gamelearn 
 
+![Game Learn](https://terabox.com/s/18yDZpKAiiiceO4foMauSiQ)
+
 Gamelearn es una plataforma que sirve para aprender jugando y en la que puedes interactuar con cosas que se dan en el mundo real, en la perspectiva de Manovich esta intersección de lo digital y lo fisico es un excelente ejemplo de hibridación. 
 
 Por ejemplo, una de las cosas que podemos hacer con Gamelearn es simular como sería un caso de Atención al Cliente en que tienes que asesorar, probar, cobrar, dar cambio y simular como sería todo el servicio que prestarias en un puesto de trabajo en la vida real, obteniendo calificación y teniendo el feedback de otras personas que están el mismo juego y a las que estas atendiendo.
