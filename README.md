@@ -8,7 +8,7 @@ Autor: César Vicente Diago Manzanares
 
 Fecha: 24/05/2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://www.freepik.es/free-ai-image/formas-geometricas-futuristas-conectan-diseno-abstracto-moderno-generado-ia_41594626.htm#query=tecnologia&position=13&from_view=keyword&track=sph) 
 
 
 
