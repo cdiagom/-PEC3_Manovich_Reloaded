@@ -22,7 +22,7 @@ En el "El software toma el mando" Lev Manovich nos cuenta las diversas formas en
 
 ## Re-descubriendo la hibridacion: Ejemplo 1: Una nueva forma de aprendizaje: Gamelearn 
 
-![Gamelearn](https://github.com/cdiagom/PEC3_Manovich_Reloaded/gamelearn.jpg)
+![Gamelearn](https://github.com/cdiagom/PEC3_Manovich_Reloaded/blob/main/gamelearn.jpg))
 
 Gamelearn es una plataforma que sirve para aprender jugando y en la que puedes interactuar con cosas que se dan en el mundo real, en la perspectiva de Manovich esta intersección de lo digital y lo fisico es un excelente ejemplo de hibridación. 
 
