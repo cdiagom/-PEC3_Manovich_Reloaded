@@ -8,7 +8,8 @@ Autor: César Vicente Diago Manzanares
 
 Fecha: 24/05/2023
 
-![Hibridación de medios](https://i.nextmedia.com.au/News/digital_transformation.jpg)
+![Portada](https://github.com/cdiagom/PEC3_Manovich_Reloaded/blob/main/hombre-tiro-medio-gafas-vr_23-2149126949.avif)
+
 
 
 
